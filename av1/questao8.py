@@ -1,4 +1,4 @@
-gabarito = ['A', 'B', 'C', 'D', 'E', 'A', 'B', 'C', 'D', 'E']
+gabarito = ['A', 'B', 'C', 'D', 'E', 'E', 'D', 'C', 'B', 'A']
 
 totalAlunos = 0
 notas = [] #armazena os acertos
