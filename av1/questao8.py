@@ -17,7 +17,7 @@ while continuar.upper() == 'SIM': #continua o looping enquanto mais alunos forem
     notas.append(acertos)
     print(f"Você teve {acertos} acertos | Nota: {acertos}/10.") #contagem de acertos
 
-    continuar = input("Outro aluno vai utilizar o sistema? (SIM/NÃO): ")
+    continuar = input("Outro aluno irá conferir o gabarito? (SIM/NÃO): ")
 
 if totalAlunos > 0:
     maiorNota = max(notas) #maior nota da turma
